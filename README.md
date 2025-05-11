@@ -20,10 +20,6 @@
   <img width="20" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="37" alt="anaconda logo"  />
   <img width="20" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="37" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="37" alt="flask logo"  />
-  <img width="20" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="37" alt="jupyter logo"  />
   <img width="20" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="37" alt="mysql logo"  />
