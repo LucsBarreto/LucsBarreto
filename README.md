@@ -1,4 +1,7 @@
-<h2 align="center">Hi, my name is Lucas Barreto, im brazilian and im currently learning about Python and SQL, i'll use this profile to store some codes and projects that i'll make by my own.</h2>
+<h2 align="center">Hi, I'm Lucas Barreto 👋  
+AI Engineer | Python Developer | Building Intelligent Systems
+
+I design and develop AI-powered solutions using Python, Machine Learning, and Data Engineering principles.</h2>
 
 ###
 
