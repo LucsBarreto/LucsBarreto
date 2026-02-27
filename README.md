@@ -1,6 +1,6 @@
 # Lucas Barreto
 
-AI Engineer Specialist | Machine Learning | LLM Applications | Data Engineering
+AI Engineer | Machine Learning | LLM Systems | MLOps
 
 I design and build intelligent systems using Python, Machine Learning, and Large Language Models.
 
@@ -9,17 +9,26 @@ I design and build intelligent systems using Python, Machine Learning, and Large
 🔹 Data Processing & Feature Engineering  
 🔹 Model Deployment with FastAPI  
 
-Currently focused on:
-- LLM-based systems
-- AI automation
-- Scalable ML architectures
+### 🏗️ Core Expertise
+
+- AI Agents & LLM Architectures  
+- Model Training & Evaluation  
+- Feature Engineering & Data Pipelines  
+- API Development for AI Systems  
+
+### 🚀 Currently Building
+
+- 🤖 LLM-powered AI applications  
+- 🧠 End-to-end ML pipelines  
+- ⚡ FastAPI AI services  
+- ☁️ Scalable deployments with Docker & AWS
 
 ---
 
 ## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,aws,postgres,git" height="60" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,aws,postgres,git,linux&perline=5" />
 </div>
 
 ---
@@ -37,7 +46,9 @@ Currently focused on:
 </div>
 
 ---
+### 📌 Architecture Mindset
 
+I focus on designing scalable AI systems — from data ingestion and model training to API deployment and cloud infrastructure.
 ## 📈 GitHub Activity
 
 <div align="center">
