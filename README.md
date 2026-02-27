@@ -1,47 +1,45 @@
-<h2 align="center">Hi, I'm Lucas Barreto 👋  
-AI Engineer | Python Developer | Building Intelligent Systems
+<h1 align="center">Lucas Barreto</h1>
 
-I design and develop AI-powered solutions using Python, Machine Learning, and Data Engineering principles.</h2>
+<h3 align="center">
+AI Engineer | Machine Learning | LLM Applications | Intelligent Systems
+</h3>
 
-###
+<p align="center">
+Building end-to-end AI solutions using Python, Deep Learning and Cloud Infrastructure.
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="sklearn logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai logo"  />
-</div>
+---
 
-###
+## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,aws,postgres,git" height="60" />
 </div>
 
-###
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LucsBarreto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://twitter.com/YOUR_LINK">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </div>
 
-###
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LucsBarreto&theme=dracula&hide_border=true"/>
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 ![snake animation](https://github.com/LucsBarreto/LucsBarreto/blob/output/github-snake-dark.svg)
-
-###
