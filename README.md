@@ -40,7 +40,8 @@ I design and develop AI-powered solutions using Python, Machine Learning, and Da
 </div>
 
 ###
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/LucsBarreto/LucsBarreto/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/LucsBarreto/LucsBarreto/blob/output/github-snake-dark.svg)
 
 ###
