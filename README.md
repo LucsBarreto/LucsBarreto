@@ -1,12 +1,18 @@
-<h1 align="center">Lucas Barreto</h1>
+# Lucas Barreto
 
-<h3 align="center">
-AI Engineer | Machine Learning | LLM Applications | Intelligent Systems
-</h3>
+AI Engineer Specialist | Machine Learning | LLM Applications | Data Engineering
 
-<p align="center">
-Building end-to-end AI solutions using Python, Deep Learning and Cloud Infrastructure.
-</p>
+I design and build intelligent systems using Python, Machine Learning, and Large Language Models.
+
+🔹 AI Agents & LLM Applications  
+🔹 End-to-End ML Pipelines  
+🔹 Data Processing & Feature Engineering  
+🔹 Model Deployment with FastAPI  
+
+Currently focused on:
+- LLM-based systems
+- AI automation
+- Scalable ML architectures
 
 ---
 
