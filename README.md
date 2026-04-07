@@ -21,21 +21,6 @@
   <img src="https://streak-stats.demolab.com?user=LucsBarreto&theme=dracula&hide_border=true"/>
 </div>
 
----
-
-## Linguagens
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucsBarreto&layout=compact&theme=dracula&hide_border=true"/>
-</div>
-
----
-
-## Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucsBarreto&theme=dracula&no-frame=true&row=1&column=6"/>
-</div>
 
 ---
 
