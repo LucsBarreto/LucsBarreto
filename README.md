@@ -10,4 +10,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://github.com/LucsBarreto/LucsBarreto/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/LucsBarreto/LucsBarreto/output/github-snake.svg" />
