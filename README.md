@@ -21,7 +21,7 @@ Transformando dados em decisões através de modelos preditivos, automações e 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
