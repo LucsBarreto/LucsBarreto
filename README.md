@@ -12,12 +12,12 @@ Transformando dados em decisões através de modelos preditivos, automações e 
 
 ##  Sobre mim
 
-- 📊 Ciência de Dados e Analytics
-- 🐍 Desenvolvimento com Python
-- 🤖 Machine Learning
-- 📈 Modelagem de previsão de vendas (Sell-In)
-- ⚡ Automação de processos
-- 🎨 Desenvolvimento de aplicações com Streamlit
+- Ciência de Dados e Analytics
+- Desenvolvimento com Python
+- Machine Learning
+- Modelagem de previsão de vendas (Sell-In)
+- Automação de processos
+- Desenvolvimento de aplicações com Streamlit
 
 ---
 
@@ -56,7 +56,7 @@ Transformando dados em decisões através de modelos preditivos, automações e 
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Transformando dados em decisões através de modelos preditivos, automações e 
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Transformando dados em decisões através de modelos preditivos, automações e 
 
 ---
 
-## 🌐 Contato
+## Contato
 
 <div align="center">
 
